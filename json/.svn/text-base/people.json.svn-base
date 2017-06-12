@@ -1,0 +1,45 @@
+{
+	"people":[
+		{
+			"userid":1,
+			"username":"1",
+			"phone":"13734578915",
+			"email":"146185412@qq.com",
+			"portrait":"../images/default.jpg",
+			"level":4,
+			"password":"123456",
+			"organization":"siye",
+			"sex":"男",
+			"address":"武汉",
+			"detailaddr":"武汉市光谷软件园"
+			
+		},
+		{
+			"userid":2,
+			"username":"1",
+			"phone":"13734578915",
+			"email":"146185412@qq.com",
+			"portrait":"../images/default.jpg",
+			"level":4,
+			"password":"123456",
+			"organization":"siye",
+			"sex":"男",
+			"address":"武汉",
+			"detailaddr":"武汉市光谷软件园"
+			
+		},{
+			"userid":3,
+			"username":"1",
+			"phone":"13734578915",
+			"email":"146185412@qq.com",
+			"portrait":"../images/default.jpg",
+			"level":4,
+			"password":"123456",
+			"organization":"siye",
+			"sex":"男",
+			"address":"武汉",
+			"detailaddr":"武汉市光谷软件园"
+			
+		}
+	]
+}
